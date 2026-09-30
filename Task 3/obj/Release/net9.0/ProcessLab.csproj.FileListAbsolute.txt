@@ -1,0 +1,14 @@
+D:\232517_Lab3_pdc\ProcessLab\bin\Release\net9.0\ProcessLab.exe
+D:\232517_Lab3_pdc\ProcessLab\bin\Release\net9.0\ProcessLab.deps.json
+D:\232517_Lab3_pdc\ProcessLab\bin\Release\net9.0\ProcessLab.runtimeconfig.json
+D:\232517_Lab3_pdc\ProcessLab\bin\Release\net9.0\ProcessLab.dll
+D:\232517_Lab3_pdc\ProcessLab\bin\Release\net9.0\ProcessLab.pdb
+D:\232517_Lab3_pdc\ProcessLab\obj\Release\net9.0\ProcessLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\232517_Lab3_pdc\ProcessLab\obj\Release\net9.0\ProcessLab.AssemblyInfoInputs.cache
+D:\232517_Lab3_pdc\ProcessLab\obj\Release\net9.0\ProcessLab.AssemblyInfo.cs
+D:\232517_Lab3_pdc\ProcessLab\obj\Release\net9.0\ProcessLab.csproj.CoreCompileInputs.cache
+D:\232517_Lab3_pdc\ProcessLab\obj\Release\net9.0\ProcessLab.dll
+D:\232517_Lab3_pdc\ProcessLab\obj\Release\net9.0\refint\ProcessLab.dll
+D:\232517_Lab3_pdc\ProcessLab\obj\Release\net9.0\ProcessLab.pdb
+D:\232517_Lab3_pdc\ProcessLab\obj\Release\net9.0\ProcessLab.genruntimeconfig.cache
+D:\232517_Lab3_pdc\ProcessLab\obj\Release\net9.0\ref\ProcessLab.dll
