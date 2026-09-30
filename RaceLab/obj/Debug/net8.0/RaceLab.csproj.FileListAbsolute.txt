@@ -1,0 +1,14 @@
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\bin\Debug\net8.0\RaceLab.exe
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\bin\Debug\net8.0\RaceLab.deps.json
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\bin\Debug\net8.0\RaceLab.runtimeconfig.json
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\bin\Debug\net8.0\RaceLab.dll
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\bin\Debug\net8.0\RaceLab.pdb
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\obj\Debug\net8.0\RaceLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\obj\Debug\net8.0\RaceLab.AssemblyInfoInputs.cache
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\obj\Debug\net8.0\RaceLab.AssemblyInfo.cs
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\obj\Debug\net8.0\RaceLab.csproj.CoreCompileInputs.cache
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\obj\Debug\net8.0\RaceLab.dll
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\obj\Debug\net8.0\refint\RaceLab.dll
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\obj\Debug\net8.0\RaceLab.pdb
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\obj\Debug\net8.0\RaceLab.genruntimeconfig.cache
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\RaceLab\obj\Debug\net8.0\ref\RaceLab.dll

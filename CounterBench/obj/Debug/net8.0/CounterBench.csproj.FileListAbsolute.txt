@@ -1,0 +1,14 @@
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\bin\Debug\net8.0\CounterBench.exe
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\bin\Debug\net8.0\CounterBench.deps.json
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\bin\Debug\net8.0\CounterBench.runtimeconfig.json
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\bin\Debug\net8.0\CounterBench.dll
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\bin\Debug\net8.0\CounterBench.pdb
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\obj\Debug\net8.0\CounterBench.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\obj\Debug\net8.0\CounterBench.AssemblyInfoInputs.cache
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\obj\Debug\net8.0\CounterBench.AssemblyInfo.cs
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\obj\Debug\net8.0\CounterBench.csproj.CoreCompileInputs.cache
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\obj\Debug\net8.0\CounterBench.dll
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\obj\Debug\net8.0\refint\CounterBench.dll
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\obj\Debug\net8.0\CounterBench.pdb
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\obj\Debug\net8.0\CounterBench.genruntimeconfig.cache
+D:\Parrallel Distributed Computing Labs\Labs\PDC LABS CODES\CounterBench\obj\Debug\net8.0\ref\CounterBench.dll
